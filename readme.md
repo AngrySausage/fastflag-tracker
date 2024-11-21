@@ -7,3 +7,5 @@ Instructions:
   - "username": (OPTIONAL) Overwrite the webhook's username a custom username
   - "avatar_url": (OPTIONAL) Overwrite the webhook's avatar with a custom image
 - Run `main.py` to start tracking FastFlags
+
+You can set up custom filters to exclude specific fastflags by editing `modules/get_fastflags.py`
